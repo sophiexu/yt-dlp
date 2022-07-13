@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/sophie210/3c84992f-92aa-4afe-a3ed-2e36c414324f/6e7b1a16-d410-4001-8267-b5f2800e7c6d/_apis/work/boardbadge/ee48bc5f-6363-4c5a-a445-020d1694dcc6)](https://dev.azure.com/sophie210/3c84992f-92aa-4afe-a3ed-2e36c414324f/_boards/board/t/6e7b1a16-d410-4001-8267-b5f2800e7c6d/Microsoft.RequirementCategory)
 <!-- MANPAGE: BEGIN EXCLUDED SECTION -->
 <div align="center">
 
